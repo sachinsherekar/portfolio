@@ -9,7 +9,7 @@ export const Bio = {
       "I am a passionate Front-End Developer and Programmer with a creative flair for crafting immersive digital experiences.I",
     github: "https://github.com/sachinsherekar",
     resume:
-      "https://drive.google.com/file/d/1QdRvWhspfY8NDKxciD8cFAFp_VIgu_En/view?usp=drive_link",
+      "https://drive.google.com/file/d/1fA3LHRO3vHDgBqDB_LNR4g2XejXLRGY5/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/sachin-sherekar-848572137/",
     twitter: "https://twitter.com/sachinsherekar1",
     insta: "https://instagram.com/sherekarsachin?igshid=OGQ5ZDc2ODk2ZA==",
